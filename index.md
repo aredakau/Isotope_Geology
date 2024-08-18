@@ -1,3 +1,5 @@
+![KAU Logo](images/kauLogo.jpg)
+
 # Isotope Geology
 ##EMR 444
 =========================
