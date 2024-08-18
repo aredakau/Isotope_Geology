@@ -1,4 +1,5 @@
-![KAU Logo](images/KAU_logo.png)
+<img src="images/KAU_logo.png" alt="KAU_LOGO" width="80" height="80">
+
 
 # Isotope Geology
 ##EMR 444
