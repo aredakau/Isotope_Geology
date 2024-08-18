@@ -1,4 +1,4 @@
-<img src="images/KAU_logo.png" alt="KAU_LOGO" width="80" height="80">
+<img src="images/KAU_logo.png" alt="KAU_LOGO" width="80" height="102">
 
 
 # Isotope Geology
