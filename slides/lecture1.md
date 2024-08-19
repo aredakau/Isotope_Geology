@@ -5,10 +5,6 @@ date: "`r Sys.Date()`"
 output: ioslides_presentation
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Course information
 
 - **Lecture Meeting Time:**  
