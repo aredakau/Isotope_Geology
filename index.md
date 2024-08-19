@@ -14,6 +14,6 @@ Jeddah, Saudi Arabia
 
 This course will cover the following topics:  
 
-- [Topic 1: Introduction](slides/lecture1.md)
+- [Topic 1: Introduction](slides/lecture_1.html)
 - [Topic 2: Advanced Concepts](slides/topic2.md)
 - test to deply
