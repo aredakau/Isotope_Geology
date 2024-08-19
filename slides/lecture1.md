@@ -1,9 +1,4 @@
----
-title: "Isotope Geology"
-author: "Dr. Ahmad Redaa"
-date: "`r Sys.Date()`"
-output: ioslides_presentation
----
+
 
 ## Course information
 
