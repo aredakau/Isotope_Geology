@@ -14,5 +14,5 @@ Jeddah, Saudi Arabia
 
 This course will cover the following topics:  
 
-- [Topic 1: Introduction](slides/lecture_1.html)
-- test 2
+- [Introduction](slides/lecture_1.html)
+- [Introduction to isotopes, atomic structure, and isotopic notation](slides/lecture_2.html)
