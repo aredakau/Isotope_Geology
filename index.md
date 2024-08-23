@@ -16,3 +16,4 @@ This course will cover the following topics:
 
 - [Introduction](slides/lecture_1.html)
 - [Introduction to atomic structure and isotopes](slides/lecture_2.html)
+- [Isotopic abundances and variations in nature](slides/lecture_3.html)
