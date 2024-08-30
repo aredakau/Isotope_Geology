@@ -18,3 +18,4 @@ This course will cover the following topics:
 - [Introduction to atomic structure and isotopes](slides/lecture_2.html)
 - [Isotopic abundances and variations in nature](slides/lecture_3.html)
 - [Radioactive decay: types, decay laws, and half-life](slides/lecture_4.html)
+- [Isotope Fractionation Processes](slides/lecture_5.html)
