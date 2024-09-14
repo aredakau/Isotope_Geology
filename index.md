@@ -22,3 +22,4 @@ This course will cover the following topics:
 - [Radioactive Decay Series](slides/lecture_6.html)
 - [Geochronological Principles and Methods](slides/lecture_7.html)
 - [Beta Decay Systems in Geochronology](slides/lecture_8.html)
+- [Sm-Nd, K-Ar and Ar-Ar geochronology](slides/lecture_9.html)
