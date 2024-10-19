@@ -25,3 +25,4 @@ This course will cover the following topics:
 - [Sm-Nd, K-Ar and Ar-Ar geochronology](slides/lecture_9.html)
 - [Uranium Decay Series and Disequilibrium](slides/lecture_10.html)
 - [U-Pb dating method](slides/lecture_11.html)
+- [Pb-Pb method](slides/lecture_12.html)
