@@ -23,6 +23,7 @@ This course will cover the following topics:
 - [Radioactive Decay Series](slides/lecture_6.html)
 - [Geochronological Principles and Methods](slides/lecture_7.html)
 - [Beta Decay Systems in Geochronology](slides/lecture_8.html)
+- [Rb-Sr method](slides/lecture_14.html)
 - [Sm-Nd, K-Ar and Ar-Ar geochronology](slides/lecture_9.html)
 - [Uranium Decay Series and Disequilibrium](slides/lecture_10.html)
 - [U-Pb dating method](slides/lecture_11.html)
